@@ -1,4 +1,4 @@
-# Open-Datasets
+# Open Datasets
 A home for miscellaneous data.
 
 ---
