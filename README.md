@@ -2,6 +2,6 @@
 A home for miscellaneous data.
 
 ---
-## Daatsets
+## Datasets
 - TBD...
 
