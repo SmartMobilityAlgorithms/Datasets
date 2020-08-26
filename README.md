@@ -1,5 +1,4 @@
 # Open Datasets
-A home for miscellaneous data.
 
 This would be a very lengthy tutorial on [Overpass QL](https://wiki.openstreetmap.org/wiki/Overpass_API/Overpass_QL) and how you can use this DSL to scrap OpenStreetMaps data filtered and ready to be used by `osmnx` and then we would go through a quick review over [Overpass API](https://wiki.openstreetmap.org/wiki/Overpass_API); this is the official API for reading data from OpenStreetMap servers and [all the online routing services and software use it](https://wiki.openstreetmap.org/wiki/Routing/online_routers) usually along side [Nominatim](https://github.com/osm-search/Nominatim) to do geo\[coding-decoding\]; translating addresses to/from (latitude - longitude).
 
