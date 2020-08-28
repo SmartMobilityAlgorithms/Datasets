@@ -13,3 +13,7 @@ These datasets with the associated `Overpass QL` script that generated the datas
 
 - TBD...
 
+---
+## Contributing
+
+You are more than welcome to send pull requests for current data or datasets. Data can be in CSV, JASON, XML or osm formats. When sending in new data, try to include the Python source code used to generate the corresponding data.
