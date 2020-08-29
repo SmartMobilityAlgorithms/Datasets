@@ -4,7 +4,7 @@ This would be a very lengthy tutorial on [Overpass QL](https://wiki.openstreetma
 
 Also be aware of the fact that most of the time if you are taking your dataset over a very big area in the map, the graph parsed from the data by `osmnx` wouldn't be complete even though there are physical feasible routes that could make the graph complete and connect all the nodes, but the deficiency usually is because of the incomplete [relaions](https://wiki.openstreetmap.org/wiki/Relation) and data of `osm`.
 
-That is why we will use [OSRM](http://project-osrm.org/) to fill these gaps when needed with the scripts that are found in [OSMan](https://github.com/omar-3/OSMan), but most of the times `osmnx` does the job perfectly without any help when the graph is over a small area (like the complete map of UofT) :smiley:. 
+That is why we will use [OSRM](http://project-osrm.org/) to fill these gaps when needed with the scripts that are found in [OSMan](https://github.com/omar-3/OSMan), but most of the times `osmnx` does the job perfectly without any help when the graph is over a small area (like the complete map of UofT). 
 
 ---
 ## Datasets
