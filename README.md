@@ -1,6 +1,6 @@
 # Datasets
 
-This repo contain information about how to obtain or compile a dataset for the coruse project problem. 
+This repo contains information about how to obtain or compile a dataset for the coruse project problem. 
 
 ---
 ## Geospatial Datasets
