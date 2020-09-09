@@ -29,7 +29,7 @@ That is why we will use [OSRM](http://project-osrm.org/) to fill these gaps when
 Fire up [Overpass turbo](http://overpass-turbo.eu/) and run these scripts and export it as `.osm` files.
 
 * **All hospitals around UofT** [here](./scripts/hospitals_toronto.oql)
-*
+* **All Tim Hortons in Canada**  [here](./scripts/tim_hortons_canada.oql)
 *
 *
 
