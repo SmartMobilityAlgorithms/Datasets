@@ -15,8 +15,8 @@ That is why we will use [OSRM](http://project-osrm.org/) to fill these gaps when
 
 [Overpass turbo](http://overpass-turbo.eu/)'s Wizard provides an easy way to auto-generate Overpass QL queries. Wizard syntax is similar to a search engine. An example of Wizard syntax is `amenity=hospital` that generates an Overpass QL query to find all the hospitals in certain region of interest. Hospital locations will be visualized on the map and can downloaded/copied using "Export" button as GeoJSON, GPX, KML, raw OSM data, raw data directly from Overpass API. You can them us `osmnx` to read `.osm` file with [`osmnx.graph_from_xml`](https://osmnx.readthedocs.io/en/stable/osmnx.html?highlight=from%20file#osmnx.graph.graph_from_xml).
 
-#
 The following `Overpass turbo`'s wizard synatx: 
+#
 * `amenity=restaurant in "Toronto, Canada"` to find all resturant in City of Toronto.
 * `amenity=cafe and name="Tim Hortons"` to find all Tim Hortons coffee shops.
 * `(amenity=hospital or amenity=school) and (type:way)` to find hospitals and schools with close ways mapped.
