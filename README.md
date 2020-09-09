@@ -46,8 +46,8 @@ The following `Overpass turbo`'s wizard synatx:
 * ...
 
 ---
-## Emission Datasets
-* [Ontario Air Quality Data Sets](http://www.airqualityontario.com/science/data_sets.php)
+## Public Transport Networks Datasets
+* [Google Transit APIs](https://developers.google.com/transit)
 * ...
 
 ---
@@ -56,6 +56,12 @@ The following `Overpass turbo`'s wizard synatx:
 * ...
 
 ---
-## Public Transport Networks Datasets
-* [Google Transit APIs](https://developers.google.com/transit)
+## Emission Datasets
+* [Ontario Air Quality Data Sets](http://www.airqualityontario.com/science/data_sets.php)
+* ...
+
+---
+## Environment Datasets
+* [Canadian Open Geospatial Data](https://canadiangis.com/data.php)
+* [Government of Canada Open Data Portal](https://open.canada.ca/data/en/dataset)
 * ...
