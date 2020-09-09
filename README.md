@@ -15,6 +15,8 @@ That is why we will use [OSRM](http://project-osrm.org/) to fill these gaps when
 
 [Overpass turbo](http://overpass-turbo.eu/)'s Wizard provides an easy way to auto-generate Overpass QL queries. Wizard syntax is similar to a search engine. An example of Wizard syntax is `amenity=hospital` that generates an Overpass QL query to find all the hospitals in certain region of interest. Hospital locations will be visualized on the map and can downloaded/copied using "Export" button as GeoJSON, GPX, KML, raw OSM data, raw data directly from Overpass API. You can them us `osmnx` to read `.osm` file with [`osmnx.graph_from_xml`](https://osmnx.readthedocs.io/en/stable/osmnx.html?highlight=from%20file#osmnx.graph.graph_from_xml).
 
+
+
 ## The following `Overpass turbo`'s wizard synatx
 
 * **`amenity=restaurant in "Toronto, Canada"`** to find all resturants in City of Toronto.
@@ -24,10 +26,14 @@ That is why we will use [OSRM](http://project-osrm.org/) to fill these gaps when
 
 ## Using `OverPass QL`
 
+Fire up [Overpass turbo](http://overpass-turbo.eu/) and run these scripts and export it as `.osm` files.
+
+* **All hospitals around UofT** [here](./scripts/hospitals_toronto.oql)
 *
 *
 *
-*
+
+It is recurrent problem in writing `OverPass QL` to find the bounding box of an area, for that we use [bbox finder](http://bboxfinder.com/) and don't forget to change coordinate format to latitude/longitude at the right corner after drawing polygon around the area of interest.
 
 **Contributing:** You have something cool and you want to share it with us? If you got your data by downloading it directly from OpenStreetMaps and did some filtering with `osmfilter`, open a pull request with the details of the data and how you filter it. If you got your data with [overpass turbo](http://overpass-turbo.eu/), please attach your `Overpass QL` script with the data so we can replicate your results and maybe we can learn a thing or two from your script.
 
