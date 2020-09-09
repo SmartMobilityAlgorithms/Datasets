@@ -17,14 +17,14 @@ That is why we will use [OSRM](http://project-osrm.org/) to fill these gaps when
 
 
 
-## The following `Overpass turbo`'s wizard synatx
+### The following `Overpass turbo`'s wizard synatx
 
 * **`amenity=restaurant in "Toronto, Canada"`** to find all resturants in City of Toronto.
 * **`amenity=cafe and name="Tim Hortons"`** to find all Tim Hortons coffee shops.
 * **`(amenity=hospital or amenity=school) and (type:way)`** to find hospitals and schools with close ways mapped.
 * **`amenity=hospital and name~"General Hospital"`** will find all hospitals with "General Hospital" part of their names. 
 
-## Using `OverPass QL`
+### Using `OverPass QL`
 
 Fire up [Overpass turbo](http://overpass-turbo.eu/) and run these scripts and export it as `.osm` files.
 
