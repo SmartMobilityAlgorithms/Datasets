@@ -35,7 +35,11 @@ Fire up [Overpass turbo](http://overpass-turbo.eu/) and run these scripts and ex
 
 It is recurrent problem in writing `OverPass QL` to find the bounding box of an area, for that we use [bbox finder](http://bboxfinder.com/) and don't forget to change coordinate format to latitude/longitude at the right corner after drawing polygon around the area of interest.
 
+#
+
 **Contributing:** You have something cool and you want to share it with us? If you got your data by downloading it directly from OpenStreetMaps and did some filtering with `osmfilter`, open a pull request with the details of the data and how you filter it. If you got your data with [overpass turbo](http://overpass-turbo.eu/), please attach your `Overpass QL` script with the data so we can replicate your results and maybe we can learn a thing or two from your script.
+
+---
 
 ### 2. Avialable open datasets
 * [Geofabrik](https://download.geofabrik.de/index.html)
@@ -45,6 +49,8 @@ It is recurrent problem in writing `OverPass QL` to find the bounding box of an 
 * [ArcGIS Hub](https://www.esri.com/en-us/arcgis/products/arcgis-hub/overview)
 * [GeoHub City of Brampton](https://geohub.brampton.ca/pages/data)
 * ...
+
+---
 
 ### 3. Commerically available datasets
 * [Planet.osm](https://planet.openstreetmap.org/)
@@ -58,6 +64,7 @@ It is recurrent problem in writing `OverPass QL` to find the bounding box of an 
 * ...
 
 ---
+
 ## Traffic Datasets
 * [Toronto Open Data](https://www.toronto.ca/city-government/data-research-maps/open-data/)
 * [Open Traffic](https://github.com/opentraffic)
