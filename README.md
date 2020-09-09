@@ -30,8 +30,8 @@ Fire up [Overpass turbo](http://overpass-turbo.eu/) and run these scripts and ex
 
 * **All hospitals around UofT** [here](./scripts/hospitals_toronto.oql)
 * **All Tim Hortons in Canada**  [here](./scripts/tim_hortons_canada.oql)
-*
-*
+* **All fast food or restaurant places in London** [here](./scripts/restaurant_fastfood_london.oql)
+
 
 It is recurrent problem in writing `OverPass QL` to find the bounding box of an area, for that we use [bbox finder](http://bboxfinder.com/) and don't forget to change coordinate format to latitude/longitude at the right corner after drawing polygon around the area of interest.
 
