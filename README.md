@@ -30,6 +30,8 @@ The following `Overpass turbo`'s wizard synatx:
 * [Factory POI](http://www.poi-factory.com/)
 * [Global Rural-Urban Mapping Project (GRUMP)](https://sedac.ciesin.columbia.edu/data/set/grump-v1-settlement-points)
 * [GeoNames Data](https://www.geonames.org/export/)
+* [ArcGIS Hub](https://www.esri.com/en-us/arcgis/products/arcgis-hub/overview)
+* [GeoHub City of Brampton](https://geohub.brampton.ca/pages/data)
 * ...
 
 ### 3. Commerically available datasets
