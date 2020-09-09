@@ -49,6 +49,7 @@ The following `Overpass turbo`'s wizard synatx:
 ## Traffic Datasets
 * [Toronto Open Data](https://www.toronto.ca/city-government/data-research-maps/open-data/)
 * [Open Traffic](https://github.com/opentraffic)
+* [Google Routes](https://cloud.google.com/maps-platform/routes)
 
 ---
 ## Public Transport Networks Datasets
