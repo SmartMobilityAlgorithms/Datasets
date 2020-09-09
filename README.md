@@ -26,9 +26,14 @@ The following `Overpass turbo`'s wizard synatx:
 ### 2. Avialable open datasets
 * [Factory POI](http://www.poi-factory.com/)
 * [Global Rural-Urban Mapping Project (GRUMP)](https://sedac.ciesin.columbia.edu/data/set/grump-v1-settlement-points)
+* [GeoNames Data](https://www.geonames.org/export/)
 * ...
 
 ### 3. Commerically available datasets
+* [Planet.osm](https://planet.openstreetmap.org/)
+* [Factual Global Places](https://www.factual.com/data-set/global-places/)
+* [TravelTime API](https://docs.traveltime.com/api/overview/introduction)
+* [Precisely](https://www.precisely.com/)
 * [World Cities Database](www.worldcitiesdatabase.com )
 * [SafeGraph](https://www.safegraph.com/)
 * [Google Maps Platform](https://cloud.google.com/maps-platform/)
