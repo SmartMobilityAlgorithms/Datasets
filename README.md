@@ -17,10 +17,10 @@ That is why we will use [OSRM](http://project-osrm.org/) to fill these gaps when
 
 The following `Overpass turbo`'s wizard synatx: 
 ```
-* `amenity=restaurant in "Toronto, Canada"` to find all resturants in City of Toronto.
-* `amenity=cafe and name="Tim Hortons"` to find all Tim Hortons coffee shops.
-* `(amenity=hospital or amenity=school) and (type:way)` to find hospitals and schools with close ways mapped.
-* `amenity=hospital and name~"General Hospital"` will find all hospitals that have the term "General Hospital" as part of their names. 
+* **`amenity=restaurant in "Toronto, Canada"`** to find all resturants in City of Toronto.
+* **`amenity=cafe and name="Tim Hortons"`** to find all Tim Hortons coffee shops.
+* **`(amenity=hospital or amenity=school) and (type:way)`** to find hospitals and schools with close ways mapped.
+* **`amenity=hospital and name~"General Hospital"`** will find all hospitals that have the term "General Hospital" as part of their names. 
 ```
 
 **Contributing:** You have something cool and you want to share it with us? If you got your data by downloading it directly from OpenStreetMaps and did some filtering with `osmfilter`, open a pull request with the details of the data and how you filter it. If you got your data with [overpass turbo](http://overpass-turbo.eu/), please attach your `Overpass QL` script with the data so we can replicate your results and maybe we can learn a thing or two from your script.
