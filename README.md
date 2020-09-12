@@ -64,7 +64,7 @@ The following `Overpass turbo`'s wizard synatx:
 ---
 
 ## Traffic Datasets
-8 [traffic per edge](https://github.com/Project-OSRM/osrm-backend/wiki/Traffic)
+* [traffic per edge](https://github.com/Project-OSRM/osrm-backend/wiki/Traffic)
 * [Open traffic](https://github.com/opentraffic)
 * [Toronto Open Data](https://www.toronto.ca/city-government/data-research-maps/open-data/)
 * [Open Traffic](https://github.com/opentraffic)
