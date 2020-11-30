@@ -96,3 +96,10 @@ The following `Overpass turbo`'s wizard synatx:
 * [Canadian Open Geospatial Data](https://canadiangis.com/data.php)
 * [Government of Canada Open Data Portal](https://open.canada.ca/data/en/dataset)
 * ...
+
+---
+## Open Source Projects
+* [GIScience](https://github.com/GIScience)
+* ...
+
+
