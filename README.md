@@ -47,6 +47,9 @@ The following `Overpass turbo`'s wizard synatx:
 * [ArcGIS Hub](https://www.esri.com/en-us/arcgis/products/arcgis-hub/overview)
 * [GeoHub City of Brampton](https://geohub.brampton.ca/pages/data)
 * [BBBike](https://extract.bbbike.org/)
+* [Mapzen](https://github.com/tilezen/joerd/tree/master/docs)
+* [openterrain list]([https://github.com/openterrain/openterrain/wiki/Terrain-Data)
+* [terrain party](https://terrain.party/)
 * ...
 
 ---
