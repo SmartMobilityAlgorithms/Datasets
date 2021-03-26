@@ -50,12 +50,14 @@ The following `Overpass turbo`'s wizard synatx:
 * [Mapzen](https://github.com/tilezen/joerd/tree/master/docs)
 * [openterrain list](https://github.com/openterrain/openterrain/wiki/Terrain-Data)
 * [terrain party](https://terrain.party/)
+* [OpenMapTiles](https://openmaptiles.org/)
 * ...
 
 ---
 
 ### 3. Commerically available datasets
 * [Planet.osm](https://planet.openstreetmap.org/)
+* [MapTiler](https://www.maptiler.com/)
 * [Factual Global Places](https://www.factual.com/data-set/global-places/)
 * [TravelTime API](https://docs.traveltime.com/api/overview/introduction)
 * [Precisely](https://www.precisely.com/)
