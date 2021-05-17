@@ -53,6 +53,7 @@ The following `Overpass turbo`'s wizard synatx:
 * [terrain party](https://terrain.party/)
 * [OpenMapTiles](https://openmaptiles.org/)
 * [UofT MDL](https://mdl.library.utoronto.ca/)
+* [GADM maps and data](https://gadm.org/index.html)
 * ...
 
 ---
