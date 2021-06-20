@@ -81,6 +81,12 @@ The following `Overpass turbo`'s wizard synatx:
 * [Google Routes](https://cloud.google.com/maps-platform/routes)
 
 ---
+## Parking Tickets Datasets
+* [City of Toronto Parking Tickets](https://ckan0.cf.opendata.inter.prod-toronto.ca/tr/dataset/parking-tickets)
+* [Toronto Parking Tickets Visualziation](https://github.com/ian-whitestone/toronto-parking-tickets)
+* ...
+
+---
 ## Public Transport Networks Datasets
 * [Google Transit APIs](https://developers.google.com/transit)
 * ...
