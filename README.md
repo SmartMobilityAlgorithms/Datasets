@@ -71,6 +71,7 @@ The following `Overpass turbo`'s wizard synatx:
 * [Google Maps Platform](https://cloud.google.com/maps-platform/)
 * [Here Maps for Developers](https://developer.here.com/products/here-sdk)
 * [Ratio City](https://www.ratio.city/)
+* [100 feet](https://www.beans.ai/index)
 * ...
 
 ---
