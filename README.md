@@ -121,6 +121,12 @@ The following `Overpass turbo`'s wizard synatx:
 * ...
 
 ---
+## Accessibility
+* [Wheelmap](https://wheelmap.org/)
+* ...
+
+
+---
 ## Open Source Projects
 * [GIScience](https://github.com/GIScience)
 * ...
