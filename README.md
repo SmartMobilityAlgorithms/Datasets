@@ -56,6 +56,7 @@ The following `Overpass turbo`'s wizard synatx:
 * [OpenMapTiles](https://openmaptiles.org/)
 * [UofT MDL](https://mdl.library.utoronto.ca/)
 * [GADM maps and data](https://gadm.org/index.html)
+* [Elevation data](https://www.opentopodata.org/)
 * ...
 
 ---
@@ -72,6 +73,7 @@ The following `Overpass turbo`'s wizard synatx:
 * [Here Maps for Developers](https://developer.here.com/products/here-sdk)
 * [Ratio City](https://www.ratio.city/)
 * [100 feet](https://www.beans.ai/index)
+* [MPAC Residential Property Assessments](https://www.mpac.ca/)
 * ...
 
 ---
