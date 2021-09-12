@@ -129,6 +129,10 @@ Some examples of `Overpass turbo`'s wizard syntax include:
 * [Wheelmap](https://wheelmap.org/)
 * ...
 
+---
+## Crime map
+* [Crime map](https://www.crimemapping.com/map/agency/91)
+* ...
 
 ---
 ## Open Source Projects
