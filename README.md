@@ -57,6 +57,8 @@ Some examples of `Overpass turbo`'s wizard syntax include:
 * [UofT MDL](https://mdl.library.utoronto.ca/)
 * [GADM maps and data](https://gadm.org/index.html)
 * [Elevation data](https://www.opentopodata.org/)
+* [SRTM C-BAND DATA PRODUCTS](https://www2.jpl.nasa.gov/srtm/cbanddataproducts.html)
+* [CGIAR-CSI SRTM raster data](https://srtm.csi.cgiar.org/srtmdata/)
 * ...
 
 ---
