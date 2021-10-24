@@ -59,6 +59,7 @@ Some examples of `Overpass turbo`'s wizard syntax include:
 * [Elevation data](https://www.opentopodata.org/)
 * [SRTM C-BAND DATA PRODUCTS](https://www2.jpl.nasa.gov/srtm/cbanddataproducts.html)
 * [CGIAR-CSI SRTM raster data](https://srtm.csi.cgiar.org/srtmdata/)
+* [Wikimapia](https://wikimapia.org/)
 * ...
 
 ---
