@@ -77,6 +77,7 @@ Some examples of `Overpass turbo`'s wizard syntax include:
 * [Ratio City](https://www.ratio.city/)
 * [100 feet](https://www.beans.ai/index)
 * [MPAC Residential Property Assessments](https://www.mpac.ca/)
+* [Geodata Tufts](https://geodata.tufts.edu/)
 * ...
 
 ---
